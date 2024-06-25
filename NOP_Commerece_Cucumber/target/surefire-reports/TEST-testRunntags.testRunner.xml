@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="testRunntags.testRunner" time="68.179" tests="6" errors="1" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.9+11-LTS-201"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\user\.jenkins\NOP_Commerece_Cucumber"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\user\.jenkins\NOP_Commerece_Cucumber"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\user\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.9.1-bin\apache-maven-3.9.1\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.9.1-bin\apache-maven-3.9.1/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\user\AppData\Local\Android\Sdk\platform-tools;C:\Users\user\AppData\Local\Android\Sdk\tools\bin;C:\Users\user\AppData\Local\Android\Sdk\tools\lib\x86_64;C:\Users\user\AppData\Local\Android\Sdk;C:\FireFlinkClient\resources\flinko-client\utilities\jdk-11\bin;C:\Program Files\PuTTY\;C:\apache-maven-3.9.1-bin\apache-maven-3.9.1\bin;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_modules\npm\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-17\bin;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Program Files\nodejs;C:\Users\user\AppData\Local\Android\Sdk\tools;C:\Users\user\AppData\Local\Android\Sdk\platform-tools;C:\Users\user\AppData\Roaming\npm;C:\Users\user\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Manoj\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2022.2.2\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;;."/>
+    <property name="maven.conf" value="C:\apache-maven-3.9.1-bin\apache-maven-3.9.1/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\apache-maven-3.9.1-bin\apache-maven-3.9.1\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\user"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="Manoj"/>
+    <property name="java.class.path" value="C:\apache-maven-3.9.1-bin\apache-maven-3.9.1\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f C:\Users\user\eclipse-workspace\NOP_Commerece_Cucumber\pom.xml test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.9.1-bin\apache-maven-3.9.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Add a new customer" classname="Customer" time="12.289"/>
+  <testcase name="Search customer By emaileId #1" classname="Customer" time="10.077"/>
+  <testcase name="Search customer By emaileId #2" classname="Customer" time="9.901"/>
+  <testcase name="Successfull login with valid credentials" classname="Login" time="11.993"/>
+  <testcase name="Login Data Driven #1" classname="Login" time="15.791">
+    <error message="The step &apos;close browser&apos; is undefined.&#10;You can implement this step using the snippet(s) below:&#10;&#10;@Then(&quot;close browser&quot;)&#10;public void close_browser() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: 
+The step 'close browser' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("close browser")
+public void close_browser() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</error>
+    <system-out><![CDATA[
+@Smoke
+Scenario: Login Data Driven                                             # features/login.feature:29
+2024-01-09 17:53:16,282 - nopCommerce - INFO - ******************** Launching The Browser ********************
+[DEBUG] Using WebDriverManager 5.5.3
+[DEBUG] Resolution chrome=120 in cache (valid until 18:52:34 09/01/2024 IST)
+[DEBUG] Resolution chrome120=120.0.6099.109 in cache (valid until 17:52:34 10/01/2024 IST)
+[INFO] Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+[DEBUG] Driver chromedriver 120.0.6099.109 found in cache
+[INFO] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+2024-01-09 17:53:17,068 - nopCommerce - INFO - Browser Opened Successfully
+  Given User launch the browser                                         # stepDefinitions.steps.user_launch_the_browser()
+2024-01-09 17:53:19,009 - nopCommerce - INFO - Successfully Navigated To https://admin-demo.nopcommerce.com url
+  When User opens the URL "https://admin-demo.nopcommerce.com"          # stepDefinitions.steps.user_opens_the_url(java.lang.String)
+2024-01-09 17:53:19,055 - nopCommerce - INFO - Successfully Cleared Text In Email Textfield
+2024-01-09 17:53:19,094 - nopCommerce - INFO - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:53:19,123 - nopCommerce - INFO - Successfully Cleared Text In Password Textfield
+2024-01-09 17:53:19,153 - nopCommerce - INFO - Successfully Entered admin Into Password Textfield
+  And User enter email as "admin@yourstore.com" and password as "admin" # stepDefinitions.steps.user_enter_email_as_and_password_as(java.lang.String,java.lang.String)
+2024-01-09 17:53:24,361 - nopCommerce - INFO - Successfully Clicked On Login Button
+  And Click on login                                                    # stepDefinitions.steps.click_on_login()
+2024-01-09 17:53:26,400 - nopCommerce - INFO - The Web Page Contains Dashboard / nopCommerce administration As Page Title
+  Then Page title should be "Dashboard / nopCommerce administration"    # stepDefinitions.steps.page_title_should_be(java.lang.String)
+2024-01-09 17:53:26,424 - nopCommerce - INFO - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 17:53:27,990 - nopCommerce - INFO - Successfully Clicked On Logout On Link
+  When User click on log out link                                       # stepDefinitions.steps.user_click_on_log_out_link()
+2024-01-09 17:53:32,029 - nopCommerce - INFO - The Web Page Contains Your store. Login As Page Title
+  Then Page title should be "Your store. Login"                         # stepDefinitions.steps.page_title_should_be(java.lang.String)
+  And close browser
+]]></system-out>
+    <system-err><![CDATA[log4j:WARN No such property [locationINFO] in org.apache.log4j.HTMLLayout.
+]]></system-err>
+  </testcase>
+  <testcase name="Login Data Driven #2" classname="Login" time="7.583">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+</failure>
+    <system-out><![CDATA[
+@Smoke
+Scenario: Login Data Driven                                                 # features/login.feature:30
+2024-01-09 17:53:32,055 - nopCommerce - INFO - ******************** Launching The Browser ********************
+[DEBUG] Using WebDriverManager 5.5.3
+[DEBUG] Resolution chrome=120 in cache (valid until 18:52:34 09/01/2024 IST)
+[DEBUG] Resolution chrome120=120.0.6099.109 in cache (valid until 17:52:34 10/01/2024 IST)
+[INFO] Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+[DEBUG] Driver chromedriver 120.0.6099.109 found in cache
+[INFO] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+2024-01-09 17:53:32,817 - nopCommerce - INFO - Browser Opened Successfully
+  Given User launch the browser                                             # stepDefinitions.steps.user_launch_the_browser()
+2024-01-09 17:53:34,698 - nopCommerce - INFO - Successfully Navigated To https://admin-demo.nopcommerce.com url
+  When User opens the URL "https://admin-demo.nopcommerce.com"              # stepDefinitions.steps.user_opens_the_url(java.lang.String)
+2024-01-09 17:53:34,743 - nopCommerce - INFO - Successfully Cleared Text In Email Textfield
+2024-01-09 17:53:34,780 - nopCommerce - INFO - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:53:34,808 - nopCommerce - INFO - Successfully Cleared Text In Password Textfield
+2024-01-09 17:53:34,839 - nopCommerce - INFO - Successfully Entered admin@123 Into Password Textfield
+  And User enter email as "admin@yourstore.com" and password as "admin@123" # stepDefinitions.steps.user_enter_email_as_and_password_as(java.lang.String,java.lang.String)
+2024-01-09 17:53:35,380 - nopCommerce - INFO - Successfully Clicked On Login Button
+  And Click on login                                                        # stepDefinitions.steps.click_on_login()
+2024-01-09 17:53:37,406 - nopCommerce - INFO - The Web Page Dose Not Contains Dashboard / nopCommerce administration But It Actually Contains Login was unsuccessful. As Page Title
+  Then Page title should be "Dashboard / nopCommerce administration"        # stepDefinitions.steps.page_title_should_be(java.lang.String)
+      java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDefinitions.steps.page_title_should_be(steps.java:87)
+	at âœ½.Page title should be "Dashboard / nopCommerce administration"(file:///C:/Users/user/eclipse-workspace/NOP_Commerece_Cucumber/./features/login.feature:22)
+
+  When User click on log out link                                           # stepDefinitions.steps.user_click_on_log_out_link()
+  Then Page title should be "Your store. Login"                             # stepDefinitions.steps.page_title_should_be(java.lang.String)
+  And close browser
+2024-01-09 17:53:37,510 - nopCommerce - INFO - Successfully Captured Screenshot Of The Login Data Driven And Strored In Screenshots Floder
+2024-01-09 17:53:39,623 - nopCommerce - INFO - ******************** Browser Closed Successfully ********************
+]]></system-out>
+    <system-err><![CDATA[log4j:WARN No such property [locationINFO] in org.apache.log4j.HTMLLayout.
+]]></system-err>
+  </testcase>
+</testsuite>

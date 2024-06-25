@@ -1,0 +1,7 @@
+utilities\base.class
+pageObjectRepo\searchCustomerPage.class
+utilities\helper.class
+pageObjectRepo\loginPage.class
+testRunntags\testRunner.class
+pageObjectRepo\addCustomerPage.class
+stepDefinitions\steps.class

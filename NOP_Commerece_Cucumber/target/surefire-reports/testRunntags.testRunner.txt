@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: testRunntags.testRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 68.179 sec <<< FAILURE! - in testRunntags.testRunner
+Login Data Driven #1(Login)  Time elapsed: 15.791 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'close browser' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Then("close browser")
+public void close_browser() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Login Data Driven #2(Login)  Time elapsed: 7.583 sec  <<< FAILURE!
+java.lang.AssertionError
+

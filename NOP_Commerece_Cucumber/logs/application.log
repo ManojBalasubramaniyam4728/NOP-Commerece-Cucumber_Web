@@ -1,0 +1,212 @@
+2024-01-09 15:36:04,105 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 15:36:05,582 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 15:36:07,754 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 15:36:07,805 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 15:36:07,845 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 15:36:07,874 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 15:36:07,904 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 15:36:09,326 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 15:36:10,775 [main] INFO nopCommerce - User Is Able View Dashboard / nopCommerce administration As Dashboard Text
+2024-01-09 15:36:10,827 [main] INFO nopCommerce - Successfully Clicked On Customer Menu Button
+2024-01-09 15:36:11,622 [main] INFO nopCommerce - Successfully Clicked On Custimer Menu Item Button
+2024-01-09 15:36:12,154 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 15:36:12,655 [main] INFO nopCommerce - Successfully Clicked On Add New Button
+2024-01-09 15:36:12,681 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 15:36:12,703 [main] INFO nopCommerce - User Is Able View Add a new customer Text
+2024-01-09 15:36:12,704 [main] INFO nopCommerce - Successfully Genrated Random kCJVw@gmail.com Email
+2024-01-09 15:36:12,751 [main] INFO nopCommerce - Successfully Entered kCJVw@gmail.com Into Email Textfield
+2024-01-09 15:36:13,288 [main] INFO nopCommerce - Successfully Entered Test@123 Into Password Textfield
+2024-01-09 15:36:13,335 [main] INFO nopCommerce - Successfully Entered Praveen Into First Name Textfield
+2024-01-09 15:36:13,361 [main] INFO nopCommerce - Successfully Entered M Into Last Name Textfield
+2024-01-09 15:36:13,400 [main] INFO nopCommerce - Successfully Clicked On Male Redio Button
+2024-01-09 15:36:13,449 [main] INFO nopCommerce - Successfully Entered 11/30/1999 Into Date Of Birth Textfield
+2024-01-09 15:36:13,502 [main] INFO nopCommerce - Successfully Entered Test Flink Into company Name Textfield
+2024-01-09 15:36:13,540 [main] INFO nopCommerce - Successfully Clicked On delete Customer Role Button
+2024-01-09 15:36:13,591 [main] INFO nopCommerce - Successfully Clicked On Customer Roles Dropdown
+2024-01-09 15:36:13,615 [main] INFO nopCommerce - Successfully Clicked On Guests List
+2024-01-09 15:36:13,663 [main] INFO nopCommerce - Successfully Clicked On Manager Of Vendor
+2024-01-09 15:36:13,740 [main] INFO nopCommerce - Successfully Selected Vendor 2 As A Visible Text For Manager Of Vendor
+2024-01-09 15:36:13,832 [main] INFO nopCommerce - Successfully Entered This The For Testing........ Into Admin Comment Textarea
+2024-01-09 15:36:14,777 [main] INFO nopCommerce - Successfully Clicked On Save Button
+2024-01-09 15:36:15,220 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 15:36:15,236 [main] INFO nopCommerce - User Able To View The new customer has been added successfully. As Confirmation Message Text
+2024-01-09 15:36:15,334 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 15:36:15,352 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 15:36:16,133 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 15:36:19,303 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 15:36:19,347 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 15:36:19,387 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 15:36:19,415 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 15:36:19,443 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 15:36:22,059 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 15:36:23,628 [main] INFO nopCommerce - User Is Able View Dashboard / nopCommerce administration As Dashboard Text
+2024-01-09 15:36:23,679 [main] INFO nopCommerce - Successfully Clicked On Customer Menu Button
+2024-01-09 15:36:24,636 [main] INFO nopCommerce - Successfully Clicked On Custimer Menu Item Button
+2024-01-09 15:36:25,127 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 15:36:25,145 [main] INFO nopCommerce - Successfully Cleared On Email Testfield
+2024-01-09 15:36:25,193 [main] INFO nopCommerce - Successfully Entered victoria_victoria@nopCommerce.com Into Email Textfield
+2024-01-09 15:36:25,234 [main] INFO nopCommerce - Successfully Clicked On Search Testfield
+2024-01-09 15:36:25,249 [main] INFO nopCommerce - Successfully Scroll To The Element Isvisable
+2024-01-09 15:36:27,319 [main] INFO nopCommerce - Searched Email Is Present In Table true
+2024-01-09 15:36:27,417 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 15:36:27,424 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 15:36:28,254 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 15:36:30,367 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 15:36:30,411 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 15:36:30,450 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 15:36:30,478 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 15:36:30,508 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 15:36:31,898 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 15:36:33,123 [main] INFO nopCommerce - User Is Able View Dashboard / nopCommerce administration As Dashboard Text
+2024-01-09 15:36:33,189 [main] INFO nopCommerce - Successfully Clicked On Customer Menu Button
+2024-01-09 15:36:33,901 [main] INFO nopCommerce - Successfully Clicked On Custimer Menu Item Button
+2024-01-09 15:36:34,359 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 15:36:34,376 [main] INFO nopCommerce - Successfully Cleared On First Name Testfield
+2024-01-09 15:36:34,411 [main] INFO nopCommerce - Successfully Entered Victoria Into Email Textfield
+2024-01-09 15:36:34,439 [main] INFO nopCommerce - Successfully Cleared On Last Name Testfield
+2024-01-09 15:36:34,512 [main] INFO nopCommerce - Successfully Clicked On Search Testfield
+2024-01-09 15:36:34,527 [main] INFO nopCommerce - Successfully Scroll To The Element Isvisable
+2024-01-09 15:36:36,591 [main] INFO nopCommerce - Searched First And Last Name Is Present In Table true
+2024-01-09 15:36:36,680 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 15:36:36,693 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 15:36:37,462 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 15:36:39,528 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 15:36:39,577 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 15:36:39,615 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 15:36:39,643 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 15:36:39,674 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 15:36:41,433 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 15:36:43,484 [main] INFO nopCommerce - The Web Page Contains Dashboard / nopCommerce administration As Page Title
+2024-01-09 15:36:43,515 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 15:36:44,916 [main] INFO nopCommerce - Successfully Clicked On Logout On Link
+2024-01-09 15:36:48,967 [main] INFO nopCommerce - The Web Page Contains Your store. Login As Page Title
+2024-01-09 15:36:49,071 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 15:36:49,104 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 15:36:49,899 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 15:36:53,326 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 15:36:53,372 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 15:36:53,409 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 15:36:53,438 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 15:36:53,467 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 15:36:55,424 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 15:36:57,449 [main] INFO nopCommerce - The Web Page Contains Dashboard / nopCommerce administration As Page Title
+2024-01-09 15:36:57,484 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 15:36:59,027 [main] INFO nopCommerce - Successfully Clicked On Logout On Link
+2024-01-09 15:37:03,077 [main] INFO nopCommerce - The Web Page Contains Your store. Login As Page Title
+2024-01-09 15:37:03,099 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 15:37:03,874 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 15:37:06,574 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 15:37:06,621 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 15:37:06,661 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 15:37:06,688 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 15:37:06,719 [main] INFO nopCommerce - Successfully Entered admin@123 Into Password Textfield
+2024-01-09 15:37:07,135 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 15:37:09,154 [main] INFO nopCommerce - The Web Page Dose Not Contains Dashboard / nopCommerce administration But It Actually Contains Login was unsuccessful. As Page Title
+2024-01-09 15:37:09,248 [main] INFO nopCommerce - Successfully Captured Screenshot Of The Login Data Driven And Strored In Screenshots Floder
+2024-01-09 15:37:11,361 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 17:52:32,096 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 17:52:35,562 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 17:52:37,383 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 17:52:37,443 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 17:52:37,485 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:52:37,515 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 17:52:37,548 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 17:52:39,014 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 17:52:39,656 [main] INFO nopCommerce - User Is Able View Dashboard / nopCommerce administration As Dashboard Text
+2024-01-09 17:52:39,713 [main] INFO nopCommerce - Successfully Clicked On Customer Menu Button
+2024-01-09 17:52:40,514 [main] INFO nopCommerce - Successfully Clicked On Custimer Menu Item Button
+2024-01-09 17:52:41,082 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 17:52:41,583 [main] INFO nopCommerce - Successfully Clicked On Add New Button
+2024-01-09 17:52:41,618 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 17:52:41,638 [main] INFO nopCommerce - User Is Able View Add a new customer Text
+2024-01-09 17:52:41,639 [main] INFO nopCommerce - Successfully Genrated Random zzKKa@gmail.com Email
+2024-01-09 17:52:41,683 [main] INFO nopCommerce - Successfully Entered zzKKa@gmail.com Into Email Textfield
+2024-01-09 17:52:42,264 [main] INFO nopCommerce - Successfully Entered Test@123 Into Password Textfield
+2024-01-09 17:52:42,309 [main] INFO nopCommerce - Successfully Entered Praveen Into First Name Textfield
+2024-01-09 17:52:42,333 [main] INFO nopCommerce - Successfully Entered M Into Last Name Textfield
+2024-01-09 17:52:42,372 [main] INFO nopCommerce - Successfully Clicked On Male Redio Button
+2024-01-09 17:52:42,418 [main] INFO nopCommerce - Successfully Entered 11/30/1999 Into Date Of Birth Textfield
+2024-01-09 17:52:42,467 [main] INFO nopCommerce - Successfully Entered Test Flink Into company Name Textfield
+2024-01-09 17:52:42,505 [main] INFO nopCommerce - Successfully Clicked On delete Customer Role Button
+2024-01-09 17:52:42,554 [main] INFO nopCommerce - Successfully Clicked On Customer Roles Dropdown
+2024-01-09 17:52:42,576 [main] INFO nopCommerce - Successfully Clicked On Guests List
+2024-01-09 17:52:42,624 [main] INFO nopCommerce - Successfully Clicked On Manager Of Vendor
+2024-01-09 17:52:42,699 [main] INFO nopCommerce - Successfully Selected Vendor 2 As A Visible Text For Manager Of Vendor
+2024-01-09 17:52:42,777 [main] INFO nopCommerce - Successfully Entered This The For Testing........ Into Admin Comment Textarea
+2024-01-09 17:52:43,692 [main] INFO nopCommerce - Successfully Clicked On Save Button
+2024-01-09 17:52:44,153 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 17:52:44,167 [main] INFO nopCommerce - User Able To View The new customer has been added successfully. As Confirmation Message Text
+2024-01-09 17:52:44,270 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 17:52:44,290 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 17:52:45,072 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 17:52:47,416 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 17:52:47,458 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 17:52:47,497 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:52:47,524 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 17:52:47,554 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 17:52:49,290 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 17:52:50,647 [main] INFO nopCommerce - User Is Able View Dashboard / nopCommerce administration As Dashboard Text
+2024-01-09 17:52:50,702 [main] INFO nopCommerce - Successfully Clicked On Customer Menu Button
+2024-01-09 17:52:51,512 [main] INFO nopCommerce - Successfully Clicked On Custimer Menu Item Button
+2024-01-09 17:52:52,079 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 17:52:52,095 [main] INFO nopCommerce - Successfully Cleared On Email Testfield
+2024-01-09 17:52:52,143 [main] INFO nopCommerce - Successfully Entered victoria_victoria@nopCommerce.com Into Email Textfield
+2024-01-09 17:52:52,182 [main] INFO nopCommerce - Successfully Clicked On Search Testfield
+2024-01-09 17:52:52,199 [main] INFO nopCommerce - Successfully Scroll To The Element Isvisable
+2024-01-09 17:52:54,261 [main] INFO nopCommerce - Searched Email Is Present In Table true
+2024-01-09 17:52:54,352 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 17:52:54,363 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 17:52:55,166 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 17:52:57,516 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 17:52:57,562 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 17:52:57,599 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:52:57,626 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 17:52:57,653 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 17:52:59,073 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 17:53:00,532 [main] INFO nopCommerce - User Is Able View Dashboard / nopCommerce administration As Dashboard Text
+2024-01-09 17:53:00,580 [main] INFO nopCommerce - Successfully Clicked On Customer Menu Button
+2024-01-09 17:53:01,401 [main] INFO nopCommerce - Successfully Clicked On Custimer Menu Item Button
+2024-01-09 17:53:01,919 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Visible
+2024-01-09 17:53:01,939 [main] INFO nopCommerce - Successfully Cleared On First Name Testfield
+2024-01-09 17:53:01,976 [main] INFO nopCommerce - Successfully Entered Victoria Into Email Textfield
+2024-01-09 17:53:02,005 [main] INFO nopCommerce - Successfully Cleared On Last Name Testfield
+2024-01-09 17:53:02,072 [main] INFO nopCommerce - Successfully Clicked On Search Testfield
+2024-01-09 17:53:02,086 [main] INFO nopCommerce - Successfully Scroll To The Element Isvisable
+2024-01-09 17:53:04,159 [main] INFO nopCommerce - Searched First And Last Name Is Present In Table true
+2024-01-09 17:53:04,253 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 17:53:04,265 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 17:53:05,058 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 17:53:06,497 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 17:53:06,554 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 17:53:06,599 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:53:06,630 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 17:53:06,663 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 17:53:08,192 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 17:53:10,212 [main] INFO nopCommerce - The Web Page Contains Dashboard / nopCommerce administration As Page Title
+2024-01-09 17:53:10,246 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 17:53:12,121 [main] INFO nopCommerce - Successfully Clicked On Logout On Link
+2024-01-09 17:53:16,155 [main] INFO nopCommerce - The Web Page Contains Your store. Login As Page Title
+2024-01-09 17:53:16,248 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
+2024-01-09 17:53:16,282 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 17:53:17,068 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 17:53:19,009 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 17:53:19,055 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 17:53:19,094 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:53:19,123 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 17:53:19,153 [main] INFO nopCommerce - Successfully Entered admin Into Password Textfield
+2024-01-09 17:53:24,361 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 17:53:26,400 [main] INFO nopCommerce - The Web Page Contains Dashboard / nopCommerce administration As Page Title
+2024-01-09 17:53:26,424 [main] INFO nopCommerce - Successfully Waited 20 Explicit Secounds Till Element Is Clickable
+2024-01-09 17:53:27,990 [main] INFO nopCommerce - Successfully Clicked On Logout On Link
+2024-01-09 17:53:32,029 [main] INFO nopCommerce - The Web Page Contains Your store. Login As Page Title
+2024-01-09 17:53:32,055 [main] INFO nopCommerce - ******************** Launching The Browser ********************
+2024-01-09 17:53:32,817 [main] INFO nopCommerce - Browser Opened Successfully
+2024-01-09 17:53:34,698 [main] INFO nopCommerce - Successfully Navigated To https://admin-demo.nopcommerce.com url
+2024-01-09 17:53:34,743 [main] INFO nopCommerce - Successfully Cleared Text In Email Textfield
+2024-01-09 17:53:34,780 [main] INFO nopCommerce - Successfully Entered admin@yourstore.com Into EmailId Textfield
+2024-01-09 17:53:34,808 [main] INFO nopCommerce - Successfully Cleared Text In Password Textfield
+2024-01-09 17:53:34,839 [main] INFO nopCommerce - Successfully Entered admin@123 Into Password Textfield
+2024-01-09 17:53:35,380 [main] INFO nopCommerce - Successfully Clicked On Login Button
+2024-01-09 17:53:37,406 [main] INFO nopCommerce - The Web Page Dose Not Contains Dashboard / nopCommerce administration But It Actually Contains Login was unsuccessful. As Page Title
+2024-01-09 17:53:37,510 [main] INFO nopCommerce - Successfully Captured Screenshot Of The Login Data Driven And Strored In Screenshots Floder
+2024-01-09 17:53:39,623 [main] INFO nopCommerce - ******************** Browser Closed Successfully ********************
