@@ -1,23 +1,23 @@
-pipeline{
-   agent any
-stages{
-      satge('Bulid'){
-            steps{
-            echo "Building the code......"
-            bat "mvn clen"
+pipeline {
+    agent any
+    stages {
+        stage('Build') {
+            steps {
+                echo "Building the code..."
+                bat "mvn clean"
             }
-         }
-        satge('Compile'){
-            steps{
-            echo "Compile the code......"
-            bat "mvn compile"
+        }
+        stage('Compile') {
+            steps {
+                echo "Compiling the code..."
+                bat "mvn compile"
             }
-         }
-        satge('test'){
-            steps{
-            echo "test the code......"
-            bat "mvn test"
-            } 
-          }
-      }
+        }
+        stage('Test') {
+            steps {
+                echo "Testing the code..."
+                bat "mvn test"
+            }
+        }
+    }
 }
