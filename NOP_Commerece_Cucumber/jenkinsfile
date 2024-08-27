@@ -4,19 +4,25 @@ pipeline {
         stage('Build') {
             steps {
                 echo "Building the code..."
-                bat "mvn clean"
+                dir('NOP_Commerece_Cucumber') {  // Navigate to the correct directory
+                    bat "mvn clean"
+                }
             }
         }
         stage('Compile') {
             steps {
                 echo "Compiling the code..."
-                bat "mvn compile"
+                dir('NOP_Commerece_Cucumber') {  // Navigate to the correct directory
+                    bat "mvn compile"
+                }
             }
         }
         stage('Test') {
             steps {
                 echo "Testing the code..."
-                bat "mvn test"
+                dir('NOP_Commerece_Cucumber') {  // Navigate to the correct directory
+                    bat "mvn test"
+                }
             }
         }
     }
